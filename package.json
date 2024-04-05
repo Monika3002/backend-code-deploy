@@ -1,0 +1,15 @@
+{
+  "name": "deploy_backend",
+  "version": "1.0.0",
+  "description": "How to deploy the backend code in production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Monika Basene",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
